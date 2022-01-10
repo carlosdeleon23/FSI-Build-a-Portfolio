@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>  
+    <head>  
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+    </head>
+    <body>  
+        <div>   
+            <h1>Carlos De Leon</h1>
+            <h2>Software Developer</h2>
+            <hr>
+            <p> My <em>favorite</em> thing about programming is to learn how to create web systems </p>
+            <h3> About me </h3>
+            <img src="https://res.cloudinary.com/briezh/image/upload/v1539124205/AdaLovelace_kf1tuk.jpg" alt="Profile picture place holder"
+            <p> Lorem ipsum dolor sit amet, movet vidisse partiendo sea ut, sed ei posidonium signiferumque, tincidunt reprimique eam no. Ei corpora ponderum praesent ius, cum in nibh noster definitionem. Ut utroque imperdiet nam, stet ridens graeci ne sea, ea solum inciderint has. Nec laudem nominati ad, cu posse solet mollis usu. Vim posse disputando consequuntur at. Et sint tantas facilisi vim. At harum exerci lobortis eos, eros homero assentior nam eu. An tation decore equidem vix, at nam omittam sensibus. Eu quas veniam cum, et consequat constituam sit. His cu dicat minim accumsan, et usu consequat intellegam.
+            </p>
+            <h3> My Projects </h3>
+             <ul>
+             <li> Project 1</li>
+             <li> Project 2 </li>
+            <li> Project 3</li>
+            </ul>
+            <h3> Contact me </h3>
+             <P> 59464984946</P>
+             <p>Email:
+                 <a href="mailto:cam29@njit.edu">cam29@njit.edu</a>
+             </p>
+        </div>
+    </body>
+</html>
